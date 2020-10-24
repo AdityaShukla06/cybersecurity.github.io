@@ -1,0 +1,22 @@
+h1 {
+font-size:67px; 
+font-family: comic sans ms;
+font-weight: 100;
+text-align: center;
+color: white;
+text-transform: capitalize;
+}
+p{
+font-size:20px;
+text-indent: 30px;
+color: yellow;
+font-family: comic sans ms;
+}
+a{
+
+color: lightblue;
+font-size:22px;
+font-family: comic sans ms;
+color: darkblue;
+
+}
